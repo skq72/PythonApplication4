@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dec30d09-8710-4bb9-a42f-65cdaf4af63b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>10.2.2.py</StartupFile>
+    <StartupFile>maja.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
